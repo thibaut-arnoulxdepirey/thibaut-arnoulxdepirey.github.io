@@ -6,7 +6,7 @@ layout: default
 
 ##  Preprints
 
-+ Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Discretized and covariant path integrals for stochastic processes. [Arxiv](https://arxiv.org/pdf/2211.09470.pdf)
++ Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Discretized and covariant path integrals for stochastic processes. [[Arxiv](https://arxiv.org/pdf/2211.09470.pdf)]
 
 ##  Articles accepted for publication
 
