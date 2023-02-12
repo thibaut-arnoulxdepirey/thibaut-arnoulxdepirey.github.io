@@ -21,34 +21,21 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <br>{{ site.description | default: site.github.project_tagline }}
 
         <br><strong>Contact</strong>
         <br>Technion
-        Faculty of Physics
-        Haifa, Israel
+        <br>Faculty of Physics
+        <br>Haifa, Israel
         <br>Office: 312
-        <br>E-mail: t.depirey [at] campus [dot] technion [dot] ac [dot] il </p>
+        <br> E-mail: t.depirey [at] campus [dot] technion [dot] ac [dot] il 
         <br class="view"><a href="{{https://scholar.google.com/citations?user=iXejAuQAAAAJ&hl=fr&oi=ao}}">Scholar</a>
     
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
        {{content}}
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{https://scholar.google.com/citations?user=iXejAuQAAAAJ&hl=fr&oi=ao}}">{{Scholar}}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
