@@ -27,6 +27,7 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
 + 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
 + 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
 
+<!-- Old News
 <details>
 <summary>Old news</summary>
 <br>
@@ -51,39 +52,39 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
    <li>20/04/2012: <a href="https://www.weser-kurier.de/region/drei-piraten-kueren-direktkandidaten-doc7e42wkfju7ngfqvg5ey">“Drei Piraten küren Direktkandidaten”</a> (Weser Kurier)</li>
 </ul>
 </details>
+-->
 
 * * *
 
-# Projects
+# Publications
 
-The projects I’m currently working on include:
-+ my cumulative dissertation on need-based distributive justice
-+ an empirical study on need-based distributive justice (jointly with Jan Romann, Mark Siebel, and Stefan Traub)
-+ a paper on coherence (jointly with Michael Schippers, Mark Siebel, and Stephan Kornmesser)
-+ an edited volume on paradoxes (to be published with mentis; jointly with Gregor Damschen and Mark Siebel)
-+ an edited volume on experimental philosophy (to be published with Walter de Gruyter; jointly with Stephan Kornmesser)
-+ an introduction to methods of experimental philosophy (to be published with Springer and J. B. Metzler; jointly with Stephan Kornmesser)
-+ the next volume of the _Oldenburger Jahrbuch für Philosophie_ (to be published with BIS-Verlag; jointly with Helena Esther Grass)
+##  Preprints
+
++ Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Discretized and covariant path integrals for stochastic processes. [[arxiv](https://arxiv.org/pdf/2211.09470.pdf)]
+
+##  Articles accepted for publication
+
++ Thibaut Arnoulx de Pirey and Guy Bunin. Aging by near-extinctions in many-variable interacting populations. To appear in Physical Review Letters (2023). [[arxiv](https://arxiv.org/pdf/2206.15229.pdf)]
+
++ Thibaut Arnoulx de Pirey and Frédéric van Wijland. Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation. Journal of Physics A: Mathematical and General  (2023).  [[J. Phys. A](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c)] & [[arxiv](https://arxiv.org/pdf/2207.04468.pdf)]
+
++ Thibaut Arnoulx de Pirey, Alessandro Manacorda, Frédéric van Wijland, and Francesco Zamponi. Active matter in infinite dimensions: Fokker–planck equation and dynamical mean-field theory at low density. The Journal of Chemical Physics (2021). [[J. Chem. Phys.](https://aip.scitation.org/doi/abs/10.1063/5.0065893)] & [[arxiv](https://arxiv.org/abs/2108.02407)]
+
++ David Martin and Thibaut Arnoulx de Pirey. AOUP in the presence of brownian noise: a perturbative approach. Journal of Statistical Mechanics: Theory and Experiment (2021). [[J. Stat. Mech.](https://iopscience.iop.org/article/10.1088/1742-5468/abefe2)] & [[arxiv](https://arxiv.org/pdf/2009.13476.pdf)]
+
++ Thibaut Arnoulx de Pirey, Gustavo Lozano, and Frédéric van Wijland. Active hard spheres in infinitely many dimensions. Physical Review Letters (2019).  [[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.260602)] & [[arxiv](https://arxiv.org/pdf/1910.03302.pdf)]
+
++ Thibaut Arnoulx de Pirey and Nicolas Yunes. Cosmological evolution and solar system consistency of massive scalar-tensor gravity. Physical Review D (2017).  [[Phys. Rev. D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.064040)] & [[arxiv](https://arxiv.org/pdf/1703.06341.pdf)]
 
 * * *
 
-# Collaborators
 
-The great people with whom I had the pleasure to work or with whom I’m currently working include:
-+ [Prof. Dr. Nils Baratella](https://soz-kult.hs-duesseldorf.de/personen/baratella) (Hochschule Düsseldorf, University of Applied Sciences)
-+ [Dr. Gregor Damschen](https://uol.de/philosophie/dr-gregor-damschen) (University of Oldenburg)
-+ [Prof. Dr. Adele Diederich](https://www.jacobs-university.de/directory/adiederich) (Jacobs University Bremen)
-+ [Helena Esther Grass](https://uol.de/philosophie/helena-grass) (University of Oldenburg)
-+ [Dr. Stephan Kornmesser](https://uol.de/stephan-kornmesser) (University of Oldenburg)
-+ [Dr. Frauke Meyer](https://www.fz-juelich.de/profile/meyer_f) (Jülich Research Centre)
-+ [Malte Ingo Meyerhuber](https://www.quotac.de/das-team.html) (QUOTAC Management)
-+ [Jan Romann](https://github.com/JKRhb) (University of Bremen)
-+ [Prof. Dr. Mark Siebel](https://uol.de/philosophie/prof-dr-mark-siebel) (University of Oldenburg)
-+ [Dr. Michael Schippers](https://uol.de/philosophie/ehemalige/dr-michael-schippers) (University of Oldenburg)
-+ [Nils Springhorn](https://uol.de/polsys/team/nils-springhorn) (University of Oldenburg)
-+ [Prof. Dr. Stefan Traub](https://www.hsu-hh.de/be/) (Helmut Schmidt University, University of the Federal Armed Forces Hamburg)
-+ [Dr. Arne Robert Weiß](http://fae.ua.es/FAEX/weissarne-r/) (University of Alicante)
-+ [Dr. Marc Wyszynski](https://www.jacobs-university.de/directory/mwyszynski) (Jacobs University Bremen)
+# Teaching
+
+From 2018 to 2021 I worked as a teaching assistant in the “Frontières du Vivant” bachelor program of the Université Paris Cité. The topics covered were Newtonian
+mechanics, thermodynamics, geometrical optics and electronics. In the fall 2021, I was given the opportunity to be the main lecturer of the Newtonian mechanics course.
+
+I have also worked as an oral examiner in mathematics and physics at first and second year level of preparatory class (equivalent to first and second year of bachelor in mathematics and physics) at Lycée Louis-le-Grand, Paris, France.
 
 <!--
 add once monograph is announced:
@@ -100,19 +101,3 @@ add once monograph is announced:
 -->
 
 * * *
-
-# Get in Touch
-
-If you want to get in touch, you can reach me at any time via <alexander.max.bauer@uni-oldenburg.de>.
-
-On the internet, there are also some other places where you can find me, including but not limited to:
-+ [Academia.edu](https://uni-oldenburg.academia.edu/alexandermaxbauer)
-+ [Google Scholar](https://scholar.google.de/citations?user=EFeokZUAAAAJ)
-+ [Mastodon](https://ohai.social/@alephmembeth)
-+ [ORCID](https://orcid.org/0000-0003-0923-6864)
-+ [OSF](https://osf.io/e7hpd/)
-+ [PhilPeople](https://philpeople.org/profiles/alexander-max-bauer)
-+ [Qeios](https://www.qeios.com/profile/19483)
-+ [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-2)
-+ [University of Oldenburg](https://uol.de/philosophie/alexander-max-bauer)
-+ [Wikipedia](https://de.wikipedia.org/wiki/Benutzer:Alephmembeth)
