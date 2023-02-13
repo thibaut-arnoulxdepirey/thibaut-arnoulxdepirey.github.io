@@ -26,8 +26,8 @@ More recently, I got interested in the modeling of large ecosystems. Faced with 
 
 # News
 
-+ 13/01/2023: Our preprint on [Aging by near-extinctions in many-variable interacting populations](https://journals.aps.org/prl/accepted/05074Y91Hfa1678e957f0f3332946562800774768) with [Guy Bunin](https://phsites.technion.ac.il/bunin/) has been accepted in PRL. 
-+ 06/01/2023: Our preprint on [Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c) with [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home) has been accepted in J. Phys. A. 
++ 13/01/2023: My preprint with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Aging by near-extinctions in many-variable interacting populations](https://journals.aps.org/prl/accepted/05074Y91Hfa1678e957f0f3332946562800774768) has been accepted in PRL. 
++ 06/01/2023: Our preprint with [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home) on the [Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c) has been accepted in J. Phys. A. 
 
 <!--
 <details>
