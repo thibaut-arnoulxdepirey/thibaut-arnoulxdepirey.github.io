@@ -2,11 +2,14 @@
 layout: default
 ---
 
-I am a postdoctoral fellow in the Biophysics & Non-Equilibrium Statistical Mechanics group of the physics department of the Technion. Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honours I’ve received](./financials.md). Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)).
+I am a postdoctoral fellow in the Biophysics & Non-Equilibrium Statistical Mechanics group of the physics department of the Technion. There I have the opportunity to collaborate with [Guy Bunin](https://phsites.technion.ac.il/bunin/) and [Yariv Kafri](https://phsites.technion.ac.il/kafri/). Before joining the Technion, I did my Ph.D. at the Université Paris Cité under the supervision of [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home). The manuscript of my thesis can be found [here](https://thibaut-arnoulxdepirey.github.io/assets/these_arnoulxdepirey.pdf). Here is a short [CV](https://thibaut-arnoulxdepirey.github.io/assets/CV.pdf).
 
-Inspired by [Gilad Feldman](https://mgto.org/check-me-replicate-me/), I invite you to [check and replicate my work](./check.md).
+I am mostly interested in nonequilibrium statistical physics and on the consequence of time-reversal symmetry-breaking on the phase behavior of many-body systems. My work puts emphasis on studying microscopic models that are complex enough to account for a non-trivial phenomenology at the macroscopic scale while being simple enough to hopefully allow analytical progress to be made. During my Ph.D., I mainly focused on active matter and self-propelled particle systems. In active systems, the individual particles are able to extract and consume energy from the environment in order to self-propel. Breaking the balance between dissipation and injection of energy at the particle level inevitably drives even the simplest versions of such interacting particle systems away from equilibrium. Their macroscale phenomenology is very rich and has stimulated the interest of physicists over the past 30 years. 
 
-The portrait to the left (or above, if you’re on a mobile device), by the way, was painted by the talented [Spiceestew](https://spiceestew.carrd.co/).
+More recently, I got interested in the modeling of large ecosystems. Faced with the impossibility of obtaining a quantitative description of the interactions between every species (or Operational Taxonomic Units when the distinction is needed) in natural communities comprising hundreds or thousands of them, I follow an approach pionereed by Robert May, himself inspired by the earlier treatment of Eugene Wigner on heavy nuclei, and consider models in which the parameters quantifying these interactions are treated as random numbers. From a theoretical ecology perspective, the question is then the following: is it possible to identify coarse-grained properties of real-world ecosystems exhibiting some degree of universality, accross scales and biomes, that would emerge from a few mechanisms such as reproduction, death and interactions? Today, the scope of statistical physics is much larger than at the origin and ideas stemming from statistical physics have even had far-reaching consequences in domains traditionally outside the scope of physics where the “microscopic” constituents can be neurons in the brain, birds in a flock, species in ecosystems, agents in a model economic system or contagious and healthy people in disease propagation. In these cases, there is simply no reason to assume the underlying symmetries of Hamiltonian physics and equilibrium is more often the exception than the rule, making the studyof these systems very exciting form a theoretical point of view.
+
+
+<!-- Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honours I’ve received](./financials.md). Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)). 
 
 * * *
 
@@ -19,15 +22,14 @@ The portrait to the left (or above, if you’re on a mobile device), by the way,
       <dd>Metaphilosophy, Philosophy of Language</dd>
 </dl>
 
-* * *
+* * * -->
 
 # News
 
-+ 23/06/2022: [“When heating in winter becomes a luxury”](https://uol.de/en/news/article/when-heating-in-winter-becomes-a-luxury-6327) (University of Oldenburg)
-+ 24/05/2022: [“Wie knappes Heizmaterial gerecht verteilen? Forschende veröffentlichen Studie zu Verteilungsgerechtigkeit”](https://www.presse.uni-oldenburg.de/mit/2022/103.html) (University of Oldenburg)
-+ 20/04/2022: [“Lernen, mit der Freiheit umzugehen”](https://uol.de/aktuelles/gestaerkt-promovieren/lernen-mit-der-freiheit-umzugehen) (University of Oldenburg)
++ 13/01/2023: Our preprint on [Aging by near-extinctions in many-variable interacting populations](https://journals.aps.org/prl/accepted/05074Y91Hfa1678e957f0f3332946562800774768) with [Guy Bunin](https://phsites.technion.ac.il/bunin/) has been accepted in PRL. 
++ 06/01/2023: Our preprint on [Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c) with [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home) has been accepted in J. Phys. A. 
 
-<!-- Old News
+<!--
 <details>
 <summary>Old news</summary>
 <br>
