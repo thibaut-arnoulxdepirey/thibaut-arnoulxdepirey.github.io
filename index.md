@@ -65,11 +65,13 @@ obstacle: steady-state distribution far-from-equilibrium](https://arxiv.org/pdf/
 
 ##  Preprints
 
++ Thibaut Arnoulx de Pirey and Frédéric van Wijland (2022). A run-and-tumble particle around a spherical obstacle: steady-state distribution far-from-equilibrium. [[arxiv](https://arxiv.org/pdf/2303.00331.pdf)]
+
 + Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Discretized and covariant path integrals for stochastic processes. [[arxiv](https://arxiv.org/pdf/2211.09470.pdf)]
 
 ##  Articles accepted for publication
 
-+ Thibaut Arnoulx de Pirey and Guy Bunin. Aging by near-extinctions in many-variable interacting populations. To appear in Physical Review Letters (2023). [[arxiv](https://arxiv.org/pdf/2206.15229.pdf)]
++ Thibaut Arnoulx de Pirey and Guy Bunin. Aging by near-extinctions in many-variable interacting populations. Physical Review Letters (2023). [[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.098401)] & [[arxiv](https://arxiv.org/pdf/2206.15229.pdf)]
 
 + Thibaut Arnoulx de Pirey and Frédéric van Wijland. Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation. Journal of Physics A: Mathematical and General  (2023).  [[J. Phys. A](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c)] & [[arxiv](https://arxiv.org/pdf/2207.04468.pdf)]
 
