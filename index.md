@@ -87,6 +87,12 @@ obstacle: steady-state distribution far-from-equilibrium](https://arxiv.org/pdf/
 
 * * *
 
+# Some online talks
+
++ About "Inclusions in momentum conserving active fluids" during the Frontiers in Statistical Physics conference, Bengaluru, December 2023. [[Link](https://www.youtube.com/watch?v=ChxGZkhcMMY)]
+
+* * *
+
 
 # Teaching
 
