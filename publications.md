@@ -6,12 +6,16 @@ layout: default
 
 ##  Preprints
 
-+ Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Discretized and covariant path integrals for stochastic processes. [[arxiv](https://arxiv.org/pdf/2211.09470.pdf)]
++ Thibaut Arnoulx de Pirey and Guy Bunin. Many-species ecological fluctuations as a jump process from the brink of extinction. [[arxiv](https://arxiv.org/pdf/2306.13634.pdf)]
 
-##  Articles accepted for publication
+##  Published articles
 
-+ Thibaut Arnoulx de Pirey and Guy Bunin. Aging by near-extinctions in many-variable interacting populations. To appear in Physical Review Letters (2023). [[arxiv](https://arxiv.org/pdf/2206.15229.pdf)]
++ Thibaut Arnoulx de Pirey and Frédéric van Wijland. A run-and-tumble particle around a spherical obstacle: steady-state distribution far-from-equilibrium. To appear in Journal of Statistical Mechanics (2023).  [[arxiv](https://arxiv.org/pdf/2207.04468.pdf)]
 
++ Thibaut Arnoulx de Pirey and Guy Bunin. Aging by Near-Extinctions in Many-Variable Interacting Populations. Physical Review Letters (2023).  [[Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.098401)] & [[arxiv](https://arxiv.org/pdf/2206.15229.pdf)]
+
++ Thibaut Arnoulx de Pirey, Leticia F. Cugliandolo, Vivien Lecomte, and Frédéric van Wijland (2022). Path integrals and stochastic calculus. Advances in Physics (2022).  [[Adv. in Phys.](https://www.tandfonline.com/doi/abs/10.1080/00018732.2023.2199229)] & [[arxiv](https://arxiv.org/pdf/2211.09470.pdf)]
+  
 + Thibaut Arnoulx de Pirey and Frédéric van Wijland. Nonlinear analog of the complexity-stability transition in random dynamical systems: a replica calculation. Journal of Physics A: Mathematical and General  (2023).  [[J. Phys. A](https://iopscience.iop.org/article/10.1088/1751-8121/acad4c)] & [[arxiv](https://arxiv.org/pdf/2207.04468.pdf)]
 
 + Thibaut Arnoulx de Pirey, Alessandro Manacorda, Frédéric van Wijland, and Francesco Zamponi. Active matter in infinite dimensions: Fokker–planck equation and dynamical mean-field theory at low density. The Journal of Chemical Physics (2021). [[J. Chem. Phys.](https://aip.scitation.org/doi/abs/10.1063/5.0065893)] & [[arxiv](https://arxiv.org/abs/2108.02407)]
