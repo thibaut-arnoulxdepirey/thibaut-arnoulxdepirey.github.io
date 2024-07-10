@@ -24,6 +24,7 @@ For more information, please refer to my CV, available in [English](https://thib
 </dl>
 
 * * * -->
+* * *
 
 # News
 
