@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 
-My name is Thibaut Arnoulx de Pirey. I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I am currently a CV Raman Postdoctoral Fellow of the Indian Institute of Science in Bangalore where I collaborate with [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) and [Vishwesha Guttal](https://teelabiisc.wordpress.com/). 
+My name is Thibaut Arnoulx de Pirey. I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I am currently a CV Raman Postdoctoral Fellow of the Indian Institute of Science in Bangalore where I collaborate with [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) and [Vishwesha Guttal](https://teelabiisc.wordpress.com/).
 
 Previously, I was a postdoc at the Technion, working with [Guy Bunin](https://phsites.technion.ac.il/bunin/) and [Yariv Kafri](https://phsites.technion.ac.il/kafri/). I completed my PhD at Université Paris Cité under the supervision of [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home). You can find the manuscript of my thesis [here](https://thibaut-arnoulxdepirey.github.io/these_arnoulxdepirey.pdf). 
 
