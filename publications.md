@@ -6,14 +6,16 @@ layout: default
 
 ##  Preprints
 
-+ Thibaut Arnoulx de Pirey, Yariv Kafri and Sriram Ramaswamy. The Anomalous Long-Ranged Influence of an Inclusion
-in Momentum-Conserving Active Fluids. [[arxiv](https://arxiv.org/pdf/2402.12996)]
-
 + Thibaut Arnoulx de Pirey. Extreme value statistics of non-Markovian processes from a new class of integrable nonlinear differential equations. [[arxiv](https://arxiv.org/pdf/2402.05091)]
 
 + Thibaut Arnoulx de Pirey and Guy Bunin. Critical behavior of a phase transition in the dynamics of interacting populations. [[arxiv](https://arxiv.org/pdf/2402.05063)]
 
 ##  Published articles
+
+
++ Thibaut Arnoulx de Pirey, Yariv Kafri and Sriram Ramaswamy. Anomalous Long-Ranged Influence of an Inclusion
+in Momentum-Conserving Active Fluids. Physical Review X (2024). [[Phys. Rev. X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041034)] & [[arxiv](https://arxiv.org/pdf/2402.12996)]
+
 
 + Thibaut Arnoulx de Pirey and Guy Bunin. Many-species ecological fluctuations as a jump process from the brink of extinction. Physical Review X (2024). [[Phys. Rev. X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011037)] & [[arxiv](https://arxiv.org/pdf/2306.13634)]
 
