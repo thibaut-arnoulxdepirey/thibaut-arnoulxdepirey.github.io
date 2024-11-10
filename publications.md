@@ -6,7 +6,8 @@ layout: default
 
 ##  Preprints
 
-+ Thibaut Arnoulx de Pirey. Extreme value statistics of non-Markovian processes from a new class of integrable nonlinear differential equations. [[arxiv](https://arxiv.org/pdf/2402.05091)]
++ Thibaut Arnoulx de Pirey. From an exact solution of dynamics in the vicinity of hard walls to extreme value
+statistics of non-Markovian processes. [[arxiv](https://arxiv.org/pdf/2402.05091)]
 
 + Thibaut Arnoulx de Pirey and Guy Bunin. Critical behavior of a phase transition in the dynamics of interacting populations. [[arxiv](https://arxiv.org/pdf/2402.05063)]
 
