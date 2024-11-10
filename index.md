@@ -28,8 +28,8 @@ For more information, please refer to my CV, available in [English](https://thib
 
 # News
 
++ 20/02/2024: My article with [Yariv Kafri](https://phsites.technion.ac.il/kafri/) and [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) on the [Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041034) has been published in Physical Review X. 
 + 05/03/2024: My article with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Many-species ecological fluctuations as a jump process from the brink of extinction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011037) has been published in Physical Review X.
-+ 20/02/2024: My preprint with [Yariv Kafri](https://phsites.technion.ac.il/kafri/) and [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) on [The Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids](https://arxiv.org/pdf/2402.12996) is out on the arxiv. 
 + 07/02/2024: My preprint on [Extreme value statistics of non-Markovian processes from a new class of integrable nonlinear differential equations](https://arxiv.org/pdf/2402.05091) is out on the arxiv.
 + 07/02/2023: My preprint with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Critical behavior of a phase transition in the dynamics of interacting populations](https://arxiv.org/pdf/2402.05063) is out on the arxiv. 
 
