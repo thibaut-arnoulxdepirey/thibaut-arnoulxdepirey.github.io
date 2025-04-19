@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 
-I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I currently hold a permanent researcher position at the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) of the CEA Saclay, in the Paris area. 
+I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I hold a permanent researcher position at the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) of the CEA Saclay, in the Paris area. 
 
 Previously, I was a CV Raman Postdoctoral Fellow of the Indian Institute of Science in Bangalore where I collaborated with [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) and [Vishwesha Guttal](https://teelabiisc.wordpress.com/). Before that, I was a postdoc at the Technion, working with [Guy Bunin](https://phsites.technion.ac.il/bunin/) and [Yariv Kafri](https://phsites.technion.ac.il/kafri/). I completed my PhD at Université Paris Cité under the supervision of [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home). You can find the manuscript of my thesis [here](https://thibaut-arnoulxdepirey.github.io/these_arnoulxdepirey.pdf). 
 
