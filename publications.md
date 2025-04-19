@@ -4,19 +4,12 @@ layout: default
 
 # Publications
 
-##  Preprints
++ Thibaut Arnoulx de Pirey and Guy Bunin. Critical behavior of a phase transition in the dynamics of interacting populations. SciPost (2025). [[SciPost](https://www.scipost.org/SciPostPhys.18.2.051)] & [[arxiv](https://arxiv.org/abs/2402.05063)]
 
-+ Thibaut Arnoulx de Pirey. From an exact solution of dynamics in the vicinity of hard walls to extreme value
-statistics of non-Markovian processes. [[arxiv](https://arxiv.org/pdf/2402.05091)]
-
-+ Thibaut Arnoulx de Pirey and Guy Bunin. Critical behavior of a phase transition in the dynamics of interacting populations. [[arxiv](https://arxiv.org/pdf/2402.05063)]
-
-##  Published articles
-
++ Thibaut Arnoulx de Pirey. From an exact solution of dynamics in the vicinity of hard walls to extreme-value statistics of non-Markovian processes. Letter in Physical Review E (2024). [[Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L062105)] & [[arxiv](https://arxiv.org/pdf/2402.05091)]
 
 + Thibaut Arnoulx de Pirey, Yariv Kafri and Sriram Ramaswamy. Anomalous Long-Ranged Influence of an Inclusion
 in Momentum-Conserving Active Fluids. Physical Review X (2024). [[Phys. Rev. X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041034)] & [[arxiv](https://arxiv.org/pdf/2402.12996)]
-
 
 + Thibaut Arnoulx de Pirey and Guy Bunin. Many-species ecological fluctuations as a jump process from the brink of extinction. Physical Review X (2024). [[Phys. Rev. X](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011037)] & [[arxiv](https://arxiv.org/pdf/2306.13634)]
 
