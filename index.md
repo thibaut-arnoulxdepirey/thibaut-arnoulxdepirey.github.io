@@ -28,13 +28,10 @@ For more information, please refer to my CV, available in [English](https://thib
 
 # News
 
-+ 09/12/2024: I joined the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) as a permanent CEA researcher in theoretical physics and statistical physics. 
++ 13/02/2025: My article with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on the [Critical behavior of a phase transition in the dynamics of interacting populations](https://www.scipost.org/SciPostPhys.18.2.051) has been published in SciPost.
++ 13/12/2024: My article [From an exact solution of dynamics in the vicinity of hard walls to extreme-value statistics of non-Markovian processes](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.L062105) has been published as a letter in Physical Review E. 
++ 09/12/2024: I joined the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) as a permanent CEA researcher in theoretical physics and statistical physics.
 + 06/11/2024: My article with [Yariv Kafri](https://phsites.technion.ac.il/kafri/) and [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) on the [Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041034) has been published in Physical Review X. 
-+ 05/03/2024: My article with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Many-species ecological fluctuations as a jump process from the brink of extinction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011037) has been published in Physical Review X.
-+ 07/02/2024: My preprint [From an exact solution of dynamics in the vicinity of hard walls to extreme value
-statistics of non-Markovian processes](https://arxiv.org/pdf/2402.05091) is out on the arxiv.
-
-
 
 * * *
 
