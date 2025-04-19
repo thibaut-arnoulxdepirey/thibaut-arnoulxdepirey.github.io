@@ -4,11 +4,11 @@ layout: default
 
 Hello!
 
-My name is Thibaut Arnoulx de Pirey. I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I am currently a CV Raman Postdoctoral Fellow of the Indian Institute of Science in Bangalore where I collaborate with [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) and [Vishwesha Guttal](https://teelabiisc.wordpress.com/).
+I am a physicist working on the statistical mechanics of nonequilibrium and disordered systems, sometimes exploring their connection with biology and ecology. I currently hold a permanent researcher position at the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) of the CEA Saclay, in the Paris area. 
 
-Previously, I was a postdoc at the Technion, working with [Guy Bunin](https://phsites.technion.ac.il/bunin/) and [Yariv Kafri](https://phsites.technion.ac.il/kafri/). I completed my PhD at Université Paris Cité under the supervision of [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home). You can find the manuscript of my thesis [here](https://thibaut-arnoulxdepirey.github.io/these_arnoulxdepirey.pdf). 
+Previously, I was a CV Raman Postdoctoral Fellow of the Indian Institute of Science in Bangalore where I collaborated with [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) and [Vishwesha Guttal](https://teelabiisc.wordpress.com/). Before that, I was a postdoc at the Technion, working with [Guy Bunin](https://phsites.technion.ac.il/bunin/) and [Yariv Kafri](https://phsites.technion.ac.il/kafri/). I completed my PhD at Université Paris Cité under the supervision of [Frédéric van Wijland](https://sites.google.com/site/fvanwijland/home). You can find the manuscript of my thesis [here](https://thibaut-arnoulxdepirey.github.io/these_arnoulxdepirey.pdf). 
 
-For more information, please refer to my CV, available in [English](https://thibaut-arnoulxdepirey.github.io/CV_english.pdf) and [French](https://thibaut-arnoulxdepirey.github.io/CV_french.pdf). You can also access my [publication list](./publications.md).
+For more information, please refer to my CV, available in [English](https://thibaut-arnoulxdepirey.github.io/CV_english.pdf) and [French](https://thibaut-arnoulxdepirey.github.io/CV_french.pdf), and to my [publication list](./publications.md). If you are a student, feel free to contact me to know about possible projects. 
 
 <!-- Hi, my name’s Max! I’m a doctoral researcher at the University of Oldenburg’s Department of Philosophy. If you want to know more about me, feel free to take a look at [my education](./education.md), [my employment](./employment.md), [the things I’ve written](./publications.md), [the presentations I’ve held](./presentations.md), [the events I’ve organised](./events.md), or [the courses I’ve taught](./teaching.md). There is also information regarding [my services to the profession](./services.md) as well as [the grants and honours I’ve received](./financials.md). Most of this information can also be found bundled in my CV (of which you can find the most recent PDF in English [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/english/cv_english.pdf) and in German [here](https://github.com/alephmembeth/curriculum-vitae/blob/main/german/cv_german.pdf)). 
 
@@ -28,11 +28,12 @@ For more information, please refer to my CV, available in [English](https://thib
 
 # News
 
++ 09/12/2024: I joined the Institut de Physique Théorique ([IPhT](https://www.ipht.fr/)) as a permanent CEA researcher in theoretical physics and statistical physics. 
 + 06/11/2024: My article with [Yariv Kafri](https://phsites.technion.ac.il/kafri/) and [Sriram Ramaswamy](https://physics.iisc.ac.in/~sriram/) on the [Anomalous Long-Ranged Influence of an Inclusion in Momentum-Conserving Active Fluids](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.041034) has been published in Physical Review X. 
 + 05/03/2024: My article with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Many-species ecological fluctuations as a jump process from the brink of extinction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011037) has been published in Physical Review X.
 + 07/02/2024: My preprint [From an exact solution of dynamics in the vicinity of hard walls to extreme value
 statistics of non-Markovian processes](https://arxiv.org/pdf/2402.05091) is out on the arxiv.
-+ 07/02/2023: My preprint with [Guy Bunin](https://phsites.technion.ac.il/bunin/) on [Critical behavior of a phase transition in the dynamics of interacting populations](https://arxiv.org/pdf/2402.05063) is out on the arxiv. 
+
 
 
 * * *
